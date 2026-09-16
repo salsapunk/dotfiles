@@ -1,0 +1,13 @@
+[window]
+decorations = "full"
+dynamic_padding = true
+[font]
+normal = {family = "Input Mono", style = "Regular"}
+size = 12.3
+[cursor]
+style = {blinking = "Always"}
+vi_mode_style = {blinking = "Always"}
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
